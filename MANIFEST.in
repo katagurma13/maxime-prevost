@@ -1,0 +1,3 @@
+graft maxime-prevost
+global-exclude *.py[cod] __pycache__ *.so *.ipynb
+recursive-exclude  maxime-prevost/jupy *
